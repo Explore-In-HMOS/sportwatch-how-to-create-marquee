@@ -1,8 +1,8 @@
 > **Note:** To access all shared projects, get information about environment setup, and view other guides, please visit [Explore-In-HMOS Index](https://github.com/Explore-In-HMOS/hmos-index).
 
-# How To Use Marquee in Lite Wearable?
+# How To Use Marquee in SportWatch?
 
-HarmonyOS application that showing how Marquee can be implemented on lite wearable devices.
+HarmonyOS application that showing how Marquee can be implemented on SportWatch devices.
 
 # Preview
 
@@ -49,5 +49,5 @@ entry/src/main/js/MainAbility
 - Huawei Sport (Lite) Ultimate
 
 # LICENSE
-**How To Use Marquee in Lite Wearable?** is distributed under the terms of the MIT License.
+**How To Use Marquee in SportWatch?** is distributed under the terms of the MIT License.
 See the [LICENSE](/LICENSE) for more information.

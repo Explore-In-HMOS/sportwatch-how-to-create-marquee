@@ -5,7 +5,7 @@ export default {
         downText: 'decrease',
         marqueeCustomData: 'Welcome to HOS Next!',
         changeTexts: [
-            'Let\'s learn lite wearable',
+            'Let\'s learn SportWatch',
             'Welcome to HOS Next!',
             'Have a nice day!',
             'Huawei developers!'
